@@ -1,6 +1,7 @@
 # Movie-Recommendation-System
 Movie Recommendation System with Python
 Project Overview
+
 This Python-based project aims to create a personalized movie recommendation system that suggests movies tailored to individual user preferences. By leveraging advanced machine learning techniques, the system analyzes user profiles, viewing history, and demographic data to identify patterns and correlations. This enables the system to accurately predict which movies a user is likely to enjoy, enhancing their overall experience on the platform.
 
 Key Components and Methodology
